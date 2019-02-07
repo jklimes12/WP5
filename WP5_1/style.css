@@ -1,0 +1,13 @@
+#wrapper {
+    text-align: center;
+ }
+
+.cookie {
+    width: 200px;
+    height: auto;
+    padding:100px;
+}
+
+.font-300per {
+    font-size: 300%;
+}
